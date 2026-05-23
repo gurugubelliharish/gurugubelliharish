@@ -10,10 +10,9 @@
 
 <br />
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/gurugubelli-harish-84869a256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://instagram.com/__harish_._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://YOUR_PORTFOLIO_URL.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://leetcode.com/u/OwpspCkWCU/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 
 </div>
 
@@ -37,42 +36,6 @@
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gurugubelliharish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table align="center" style="border: none; background: transparent;">
-    <tr style="border: none; background: transparent;">
-      <td align="center" style="border: none; background: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api?username=gurugubelliharish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-      </td>
-      <td align="center" style="border: none; background: transparent;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurugubelliharish&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr style="border: none; background: transparent;">
-      <td colspan="2" align="center" style="border: none; background: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurugubelliharish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurugubelliharish&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=f7768e" alt="Activity Graph" width="100%" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 | Project & Live Demo | Description | Tech Stack | Repository |
@@ -84,32 +47,11 @@
 
 ---
 
-## 📝 Latest Blog Posts
-
-- [Understanding Modern State Management in React](#)
-- [How to Build Scalable APIs with Node.js & Express](#)
-- [A Deep Dive into TypeScript Utility Types](#)
-- [My Journey Building Open Source Projects](#)
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gurugubelliharish/gurugubelliharish/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gurugubelliharish/gurugubelliharish/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gurugubelliharish/gurugubelliharish/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
----
-
 <div align="center">
   <h3>Thanks for visiting my profile! ✌️</h3>
   <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
   <br />
   <a href="https://github.com/gurugubelliharish"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://instagram.com/__harish_._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/gurugubelli-harish-84869a256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/OwpspCkWCU/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </div>
