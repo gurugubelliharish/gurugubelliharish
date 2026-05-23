@@ -20,10 +20,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack Web Applications**
-- 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**
-- 👯 I’m looking to collaborate on **Open Source Projects & Innovative Startups**
-- 💬 Ask me about **JavaScript, TypeScript, Python, and scalable backend systems**
+- 🔭 I’m currently working on **AI-driven Healthcare Solutions & Full Stack Web Applications**
+- 🌱 I’m currently learning **Large Language Models (LLMs) & Advanced System Architecture**
+- 👯 I’m looking to collaborate on **Health-Tech Startups & Innovative Open Source Projects**
+- 💬 Ask me about **JavaScript, Python, AI Integrations, and scalable backend systems**
 - ⚡ Fun fact: **I can debug code without breaking a sweat (most of the time).**
 
 ---
@@ -40,10 +40,10 @@
 
 | Project & Live Demo | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| **[Payroll Management](#)** | A comprehensive system to manage employee payrolls, calculate salaries, and handle deductions efficiently. | `JavaScript` `HTML` `CSS` | [🔗 Repo](https://github.com/gurugubelliharish/payrollmanagement) |
-| **[3D Viewer](#)** | An interactive web-based 3D model viewer supporting various modern rendering techniques. | `TypeScript` `Three.js` | [🔗 Repo](https://github.com/gurugubelliharish/3D-viewer) |
-| **[Weight Lifting Score Manager](#)** | A robust software application for managing, scoring, and tracking weight lifting competitions. | `Python` | [🔗 Repo](https://github.com/gurugubelliharish/Weight-Lifting-Score-Management-Software) |
-| **[Human Disease Prediction](#)** | Machine learning pipeline designed to predict potential human diseases based on medical datasets. | `Python` `Scikit-Learn` | [🔗 Repo](https://github.com/gurugubelliharish/A-Human-Disease-Prediction-Using-ML) |
+| **[Medished](#)** | A comprehensive healthcare platform for managing medical data and streamlining operations. | `React` `Node.js` `MongoDB` | [🔗 Repo](https://github.com/gurugubelliharish/medished) |
+| **[Medical Chatbot](#)** | An intelligent AI-powered conversational agent assisting users with medical inquiries and triage. | `Python` `LangChain` `OpenAI` | [🔗 Repo](https://github.com/gurugubelliharish/medical-chatbot) |
+| **[Payroll Management](#)** | A robust system to manage employee payrolls, calculate salaries, and handle organizational deductions efficiently. | `JavaScript` `HTML` `CSS` | [🔗 Repo](https://github.com/gurugubelliharish/payrollmanagement) |
+| **[N-Way Project](#)** | A scalable multi-directional synchronization and communication architecture system. | `TypeScript` `WebSockets` | [🔗 Repo](https://github.com/gurugubelliharish/n-way-project) |
 
 ---
 
